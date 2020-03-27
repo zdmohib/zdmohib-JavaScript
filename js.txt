@@ -1,0 +1,37 @@
+Java Srcipt connection
+In Line:   <body onload=" alart("Hello")  ">
+Internal:
+           body
+                <script>
+                      
+                     code
+                </script>  
+           /body
+external:
+       new file + filename.js
+    sorce code
+            body
+                  <srctpt src="filename.js"></script>
+           /body
+
+
+for comment:
+      crtl + /  
+
+input: 
+    input always string
+    convert string to number
+                    parseInt(string, 10)
+
+relational operator:
+        ==  check equal
+        === check data type
+
+
+tutorial 27
+    select element and change
+        var myheading=document.getElementById("id name");
+        myheading.innerHTML="Hello";
+
+          get element by id,class,tag
+                       3 can slelct query select
